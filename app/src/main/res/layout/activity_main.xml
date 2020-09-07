@@ -5,9 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/colorAccent"
     tools:context=".MainActivity">
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Home Screen"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="45sp" />
 
 
 </LinearLayout>
