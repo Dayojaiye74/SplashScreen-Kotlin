@@ -1,6 +1,10 @@
 # SplashScreen-Kotlin
 he splash screen is the very first screen that we see whenever we open the app. It is a screen or a page (window) that comprises an image, name, logo, and version of the application. 
-The Splash Screen helps to display brand identity to users as the app loads. It's popuplar in some apps: facebook, instagram, twitter, slack github and more..
+The Splash Screen helps to display brand identity to users as the app loads. It's popuplarly seen in som app like: facebook, instagram, twitter, slack github and more.. 
+ 
+ 
+ 
+See demo below :point_down:
 
 
 ## Demo 
